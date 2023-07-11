@@ -1,0 +1,7 @@
+Storm2_2004_7_21_29.mat filter=lfs diff=lfs merge=lfs -text
+Storm3_2008_3_25_29.mat filter=lfs diff=lfs merge=lfs -text
+Storm4_2010_4_3_7.mat filter=lfs diff=lfs merge=lfs -text
+Storm5_2015_3_15_26.mat filter=lfs diff=lfs merge=lfs -text
+Storm6_2017_9_6_9.mat filter=lfs diff=lfs merge=lfs -text
+Storm7_2020_9_23_29.mat filter=lfs diff=lfs merge=lfs -text
+Storm1_2003_10_28_31.mat filter=lfs diff=lfs merge=lfs -text
